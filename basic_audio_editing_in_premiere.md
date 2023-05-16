@@ -1,6 +1,8 @@
 
 # Basic Audio Editing in Premiere
 
+In our [previous tutorial](https://github.com/miriamposner/digital_storytelling_adobe_premiere), we learned about basic editing in Adobe Premiere Pro. In today's tutorial, we'll focus a bit more on working with audio.
+
 As we've discussed, audio is a critical part of any film or video. Premiere has sophisticated audio-editing capabilities, which is both a good thing and a bad thing. It's great that you can do sophisticated things with this tool, but it also means that getting started on audio-editing can be a little bit intimidating.
 
 So in this tutorial, we'll learn about some basic audio-editing in Adobe Premiere: substituting one audio track for another, lowering and raising the volume on a track, layering a voiceover, and altering the volume to accommodate a voiceover. We'll also learn about a couple of cool tricks that Premiere has tucked away!
