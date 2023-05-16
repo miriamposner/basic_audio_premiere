@@ -91,7 +91,7 @@ Now your panels are rearranged. You have a new panel on the far right called **E
 
 Sound is denoted in decibels (dB). If you look closely at the audio meter, you'll see that the top of the meter—indicating the loudest sound—is actually a zero. The larger negative numbers below zero indicate softer volumes.
 
-What happens if the audio is so loud it goes past zero? Then we say the audio is **clipped**. That means that the audio is being played back at a volume that exceeds the quality at which it was recorded. When that happens, you'll hear distortion. So you want to keep your volume below zero—preferable somewhere in the -6 to -12 dB range.
+What happens if the audio is so loud it goes past zero? Then we say the audio is **clipped**. That means that the audio is being played back at a volume that exceeds the quality at which it was recorded. When that happens, you'll hear distortion. So you want to keep your volume below zero—preferably somewhere in the -6 to -12 dB range.
 
 As you play the audio clip, try clicking and unclicking the **S** icons below each of the levels. The "S" stands for "solo," and clicking this box allows you to hear each channel in isolation
 
