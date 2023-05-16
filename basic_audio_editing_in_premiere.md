@@ -7,42 +7,19 @@ So in this tutorial, we'll learn about some basic audio-editing in Adobe Premier
 
 We'll use a lot of preset effects today, in order to keep things simple. Once you're feeling more confident, you might want to learn how to make more granular edits. So at the end of the tutorial, you'll find links to resources that will help you understand audio in more depth.
 
-# Table of contents
-1 Download media
-2 Import media
-3 Open the video clip
-4 Pause to notice a new icon
-5 Unlink the audio from your video
-6 Delete the audio track
-7 Examine our new audio track
-8 Switch workspaces
-9 Notating volume in decibels
-10 Add your new soundtrack to the sequence
-11 Tell Premiere what kind of audio we're working with
-12 Adjust the clip's volume
-13 A cool trick
-14 Add our voiceover
-15 Modulate the voice's volume (1)
-16 Modulate the voice's volume (2)
-17 Note keyframes
-18 Normalize your volume
-19 Examine other capabilities
-20 Record your voiceover
-21 Learning more about audio in Premiere
-
 # 1 Download media
 
 ![Download media](steps-basic_audio_editing_in_premiere/step-0.jpeg)
 
 Last week, you used your own media to build your video project, but this week, to make things a little simpler, I'll provide you with a few clips.
 
-Please download the zipped file [here](https://www.dropbox.com/s/psa6gu6y7u8qsso/premiere_audio.zip?dl=0) (rel=undefined target=undefined), and double-click it to expand the files.
+Please download the zipped file [here](https://www.dropbox.com/s/psa6gu6y7u8qsso/premiere_audio.zip?dl=0), and double-click it to expand the files.
 
 Here are the files and their sources: 
 
-- [Piano Flight by EDRECORDS](https://licensing.jamendo.com/en/track/1975023/piano-flight) (rel=undefined target=undefined)
-- [Ambient n 1, by Gian Paolo Forni](https://vimeo.com/787395066) (rel=undefined target=undefined)
-- ["Sonnett 15," by William Shakespeare, read by John Richetti ](https://writing.upenn.edu/pennsound/x/Richetti-Sonnets.php) (rel=undefined target=undefined)
+- [Piano Flight by EDRECORDS](https://licensing.jamendo.com/en/track/1975023/piano-flight)
+- [Ambient n 1, by Gian Paolo Forni](https://vimeo.com/787395066)
+- ["Sonnett 15," by William Shakespeare, read by John Richetti ](https://writing.upenn.edu/pennsound/x/Richetti-Sonnets.php) 
 
 # 2 Import media
 
@@ -94,7 +71,7 @@ That's because the audio clip we're using is in **stereo**, meaning it has two *
 
 When an audio clip is in stereo, it's as though the same clip was recorded by two microphones at the same time, one pointing left and one pointing right. Otherwise, the two channels are exactly the same!
 
-When an audio clip only has one channel, we say it's in **mono**. And, in fact, a stereo clip is really just two mono channels! Usually, when we edit a stereo track in Premiere, we'll want to make changes to both of the channels at the same time, so most edits apply to both channels by default. Later, though, if you'd like, you can [decouple the channels](https://www.premiumbeat.com/blog/stereo-to-dual-mono-premiere-pro/) (rel=undefined target=undefined) and work on each separately.
+When an audio clip only has one channel, we say it's in **mono**. And, in fact, a stereo clip is really just two mono channels! Usually, when we edit a stereo track in Premiere, we'll want to make changes to both of the channels at the same time, so most edits apply to both channels by default. Later, though, if you'd like, you can [decouple the channels](https://www.premiumbeat.com/blog/stereo-to-dual-mono-premiere-pro/) and work on each separately.
 
 # 8 Switch workspaces
 
@@ -172,7 +149,7 @@ From your project pane, grab the icon for "Sonnet 15" and drag it to the timelin
 
 Try playing back our sequence. It sounds OK, but the music is a little overwhelming, even though we've already lowered the volume. We could lower the volume even further, but it would be ideal if the volume only decreased while the voice was speaking. Let's try another cool trick Adobe Premiere offers.
 
-["Ducking"](https://en.wikipedia.org/wiki/Ducking) (rel=undefined target=undefined) is an audio technique in which one audio track's volume is lowered to highlight another audio track. We could do it manually, but Premiere will do it for us automatically.
+["Ducking"](https://en.wikipedia.org/wiki/Ducking) is an audio technique in which one audio track's volume is lowered to highlight another audio track. We could do it manually, but Premiere will do it for us automatically.
 
 First, let's tell Premiere what kind of audio we're working with, just the way we told it we were working with music earlier. Click on "Sonnet 15," the clip we just moved to the timeline, to select it. Then, in the Essential Sound panel, click the button for **Dialogue**.
 
@@ -190,7 +167,7 @@ Play your sequence again to hear how the music fades out to accommodate the dial
 
 Try adjusting the **Sensitivity**, **Duck Amount**, **Fade Duration**, and **Fade Position** controls to see how they affect the project's audio. Try clicking and unclicking the **Clip volume** checkbox.
 
-Perhaps you'd like to [download another sonnet](https://writing.upenn.edu/pennsound/x/Richetti-Sonnets.php) (rel=undefined target=undefined) (from the linked website, click on **MP3**, then click on the three vertical dots, then select **Download**) and add it to your audio track. Then mark it as Dialogue and regenerate keyframes for the musical track in order to accommodate the new voiceover.
+Perhaps you'd like to [download another sonnet](https://writing.upenn.edu/pennsound/x/Richetti-Sonnets.php) (from the linked website, click on **MP3**, then click on the three vertical dots, then select **Download**) and add it to your audio track. Then mark it as Dialogue and regenerate keyframes for the musical track in order to accommodate the new voiceover.
 
 # 17 Note keyframes
 
@@ -238,17 +215,15 @@ You probably don't want to do it right now, but when you're ready, you can recor
 
 If you look closely at the trackhead controls for the audio tracks, you'll see that they include a microphone icon. Clicking that microphone allows you to record your own voiceover track while your video plays.
 
-For more on recording a voiceover in Premiere, see [this page](https://helpx.adobe.com/premiere-pro/using/recording-audio.html#:~:text=Record%20a%20voice%2Dover%20on%20an%20audio%20track%20from%20the%20Timeline) (rel=undefined target=undefined). For more on how to record good-quality audio (consider your closet!), see [this page](https://guides.library.ucsc.edu/DS/Resources/RecordingAudioAtHome) (rel=undefined target=undefined).
+For more on recording a voiceover in Premiere, see [this page](https://helpx.adobe.com/premiere-pro/using/recording-audio.html#:~:text=Record%20a%20voice%2Dover%20on%20an%20audio%20track%20from%20the%20Timeline). For more on how to record good-quality audio (consider your closet!), see [this page](https://guides.library.ucsc.edu/DS/Resources/RecordingAudioAtHome).
 
 # 21 Learning more about audio in Premiere
 You've learned how to split audio and video, to adjust the volume of individual tracks, to duck audio for dialogue, to manipulate keyframes, and to record your own voice. That's a lot! And it will likely be enough to carry you through your digital storytelling project.
 
 However, there's a lot more you can do with audio in Premiere, such as repair terrible audio tracks, add reverb, and get rid of background noise.
 
-[This chapter](https://learning.oreilly.com/library/view/adobe-premiere-pro/9780137624997/ch11.xhtml#:-:text=11.%20Improving%20Audio) (rel=undefined target=undefined) of *Adobe Premiere Pro Classroom in a Book* will walk you through the steps for improving audio using preset effects. (You'll need to be on the UCLA campus or using the UCLA VPN in order to access it.)
+[This chapter](https://learning.oreilly.com/library/view/adobe-premiere-pro/9780137624997/ch11.xhtml#:-:text=11.%20Improving%20Audio) of *Adobe Premiere Pro Classroom in a Book* will walk you through the steps for improving audio using preset effects. (You'll need to be on the UCLA campus or using the UCLA VPN in order to access it.)
 
-[This chapter](https://learning.oreilly.com/library/view/adobe-premiere-pro/9781681986883/compend_6.xhtml#:-:text=6%20Audio%20Effects,%26%20Mastering) (rel=undefined target=undefined) of *Adobe Premiere Pro* will give you an exhaustive look at audio editing features. (You'll also need to be on a UCLA network to use this book.)
+[This chapter](https://learning.oreilly.com/library/view/adobe-premiere-pro/9781681986883/compend_6.xhtml#:-:text=6%20Audio%20Effects,%26%20Mastering) of *Adobe Premiere Pro* will give you an exhaustive look at audio editing features. (You'll also need to be on a UCLA network to use this book.)
 
-Or if you prefer learning from video, [this chapter](https://www.linkedin.com/learning-login/share?account=95316746&amp;forceAccount=false&amp;redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpremiere-pro-2022-essential-training%2Faudio-editing-building-the-soundtrack%3Ftrk%3Dshare_video_url%26shareId%3DnbSBCAguQmKkc22zZL0qPg%253D%253D) (rel=undefined target=undefined) (UCLA or VPN only) of the LinkedIn Learning course [Premiere Pro 2022 Essential Training](https://www.linkedin.com/learning-login/share?account=95316746&amp;forceAccount=false&amp;redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpremiere-pro-2022-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DnbSBCAguQmKkc22zZL0qPg%253D%253D) (rel=undefined target=undefined) will give you a detailed look at Premiere's audio editing functions.
-
-
+Or if you prefer learning from video, [this chapter](https://www.linkedin.com/learning-login/share?account=95316746&amp;forceAccount=false&amp;redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpremiere-pro-2022-essential-training%2Faudio-editing-building-the-soundtrack%3Ftrk%3Dshare_video_url%26shareId%3DnbSBCAguQmKkc22zZL0qPg%253D%253D) (UCLA or VPN only) of the LinkedIn Learning course [Premiere Pro 2022 Essential Training](https://www.linkedin.com/learning-login/share?account=95316746&amp;forceAccount=false&amp;redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpremiere-pro-2022-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DnbSBCAguQmKkc22zZL0qPg%253D%253D) will give you a detailed look at Premiere's audio editing functions.
