@@ -195,7 +195,7 @@ You've made a lot of adjustments to your various audio tracks. When we adjust cl
 
 To avoid this, let's **normalize** our tracks. That adjusts the maximum volume of all the clips so that they're in the same range.
 
-To do this, select all the clips on your timeline. (You can hold down the **shift** key and click or press **command** and then **A**.) Then right-click (or control-click) on one of the selected tracks and, from the menu that pops up, select **Audio Gain... **In the ensuing dialogue box, click the radio button for **Normalize all peaks to... **and enter a value. Remember that when audio gets to zero and above it can clip; try entering a value somewhere between -6 and -12.
+To do this, select all the clips on your timeline. (You can hold down the **shift** key and click or press **command** and then **A**.) Then right-click (or control-click) on one of the selected tracks and, from the menu that pops up, select **Audio Gain...** In the ensuing dialogue box, click the radio button for **Normalize all peaks to...** and enter a value. Remember that when audio gets to zero and above it can clip; try entering a value somewhere between -6 and -12.
 
 Then listen to your sequence again. The volume should remain consistent overall, even as individual tracks get louder or softer.
 
